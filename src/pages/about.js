@@ -11,6 +11,7 @@ export default function About() {
           laborum culpa impedit rem, sed quo alias harum possimus voluptatum
           odio ad provident magnam minima porro esse autem at dolorem!
         </p>
+        <p>Hello bro！没错，我就是曹思远</p>
       </div>
     </Layout>
   )
